@@ -80,16 +80,8 @@ PowerToys matches the exact original key combination before applying the single-
 | Ctrl + Shift + S | F12 | Custom (e.g. trigger a tool bound to F12) |
 | Ctrl + = | Ctrl + Shift | Custom modifier combo |
 
-## Text expansion
-
-| Shortcut pressed | Types |
-|---|---|
-| Win + I | `hello ` |
-
-This is a sample/demo entry under `remapShortcutsToText` — replace it with your own snippet shortcuts as needed.
-
 ## Notes
 
-- `remapKeysToText` is empty in this config; it's reserved for mapping single keys directly to text output.
+- `remapKeysToText` and `remapShortcutsToText` are empty in this config; they're reserved for mapping keys/shortcuts directly to text output (snippet expansion).
 - `appSpecific` shortcut lists are empty; all remaps here are global (apply in every application).
 - Edit `default.json` directly, or use the PowerToys Keyboard Manager UI, which will rewrite this file for you.
