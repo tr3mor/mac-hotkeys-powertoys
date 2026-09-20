@@ -82,6 +82,5 @@ PowerToys matches the exact original key combination before applying the single-
 
 ## Notes
 
-- `remapKeysToText` and `remapShortcutsToText` are empty in this config; they're reserved for mapping keys/shortcuts directly to text output (snippet expansion).
 - `appSpecific` shortcut lists are empty; all remaps here are global (apply in every application).
 - Edit `default.json` directly, or use the PowerToys Keyboard Manager UI, which will rewrite this file for you.
