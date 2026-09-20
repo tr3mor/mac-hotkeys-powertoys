@@ -32,7 +32,7 @@ Additionally:
 
 | Key pressed | Sends |
 |---|---|
-| Caps Lock (20) | Win + Space (91;32) — opens a Spotlight-style launcher, e.g. PowerToys Run when bound to Win+Space |
+| Caps Lock (20) | Win + Space (91;32) — switches the keyboard input language, Windows' built-in shortcut for cycling input languages |
 
 ## Shortcut remaps
 
